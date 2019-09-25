@@ -4,5 +4,6 @@ project "Test GitOps",{
     stage "QA"
     stage "UAT"
     stage "PROD"
+    stage "Audit"
   } // afterStage:
 }
