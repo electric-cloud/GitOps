@@ -1,1 +1,3 @@
-project "Test GitOps"
+project "Test GitOps",{
+  description = "Example generated project from FlowFile"
+}
